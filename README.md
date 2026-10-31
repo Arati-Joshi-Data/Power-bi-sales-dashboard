@@ -41,7 +41,13 @@ This dashboard helps identify:
 ## 👩‍💻 Author
 **Arati Joshi**
 
+## Dashboard Screenshots
+
+### Sales Dashboard
 ![Sales Dashboard](images/sales_dashboard.png)
 
-![Year-over-Year Growth](images/YOY_Growth.png)
+### Year-over-Year Growth
+![Year-over-Year Growth](images/YOY_growth.PNG)
+
+
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
