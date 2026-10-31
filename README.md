@@ -42,5 +42,5 @@ This dashboard helps identify:
 **Arati Joshi**
 
 ![Sales Dashboard](images/sales_dashboard.png)
-![Sales Dashboard](images/YOY growth.png)
+![Second Dashboard](images/YOY_growth.png)
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
